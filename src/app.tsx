@@ -1,9 +1,13 @@
-import React from 'react'
+import tsImg from "./ts.svg";
+import "./App.css"
 
-const App = () => {
+export const App = () => {
   return (
-    <div>App</div>
+    <div className="App">
+      <img src={tsImg } alt="" className="App-ts-img" />
+      <div className="App-head">
+        Typescript starter kit
+      </div>
+    </div>
   )
 }
-
-export default App;

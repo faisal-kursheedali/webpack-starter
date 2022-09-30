@@ -1,0 +1,21 @@
+.App{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.App-ts-img{
+    max-width: 250px;
+}
+.App-head{
+    font-size: 2rem;
+    font-weight: 900;
+    margin-top: 1.5rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{
+    background-color: navy;
+    color: white;
+}

@@ -1,16 +1,15 @@
 ## Download the starter kit
 
-npx degit (url) my-app
+npx degit https://github.com/faisal-kursheedali/webpack-starter.git my-app
 
 ## Install dependencies
 
-cd my-app &&
-yarn
+npm i
 
 ## Run dev server
 
-yarn start
+npm start
 
 ## Build
 
-yarn build
+npm build
