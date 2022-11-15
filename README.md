@@ -4,13 +4,11 @@ This is the starter kit for web application development using TypeScript. This i
 
 ## Download the starter kit
 
-You can get this starter kit for your project using this command.
+You can get this starter kit for your project using this command.<br/><br/>
 npx degit https://github.com/faisal-kursheedali/webpack-starter.git <your folder name>
 
 ## Install dependencies
-  
-Install all the dependencies using this command.
-npm i
+  npm i
 
 ## Run dev server
 
