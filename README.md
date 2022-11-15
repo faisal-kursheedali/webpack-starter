@@ -1,6 +1,6 @@
 ## Download the starter kit
 
-npx degit https://github.com/faisal-kursheedali/webpack-starter.git my-app
+npx degit https://github.com/faisal-kursheedali/webpack-starter.git <your folder name>
 
 ## Install dependencies
 
