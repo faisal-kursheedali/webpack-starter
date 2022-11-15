@@ -24,3 +24,9 @@ npm start
 ## Build
 
 npm build
+
+
+<h2>Demo</h2>
+
+![ts-starter-demo](https://user-images.githubusercontent.com/85350108/201992018-c4f7cceb-0468-4242-a9e5-c0fdd9d9a09c.png)
+
