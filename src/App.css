@@ -1,21 +1,30 @@
-.App{
-    height: 100vh;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
+.App {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
-.App-ts-img{
-    max-width: 250px;
+.App-ts-img {
+  max-width: 250px;
 }
-.App-head{
-    font-size: 2rem;
-    font-weight: 900;
-    margin-top: 1.5rem;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+.App-head {
+  font-size: 2rem;
+  font-weight: 900;
+  margin-top: 1.5rem;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.App-sub {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-top: 0.75rem;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.App-sub-link {
+  color: yellow;
 }
 
-body{
-    background-color: navy;
-    color: white;
+body {
+  background-color: navy;
+  color: white;
 }
