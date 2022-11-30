@@ -33,8 +33,21 @@ module.exports = {
   },
   output: {
     path: path.resolve(__dirname, '..', './build'),
-    filename: 'bundle.js',
+    filename: "[name].[contenthash].bundle.js",
+    clean: true
   },
+  optimization: {
+    splitChunks: {
+        cacheGroups: {
+            node_vendors: {
+                test: /[\\/]node_modules[\\/]/,
+                name: 'vendor',
+                chunks:"all",
+                priority : 1
+            }
+        }
+    }
+},
   plugins: [
     new HtmlWebpackPlugin({
       template: path.resolve(__dirname, '..', './src/index.html'),
