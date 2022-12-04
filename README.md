@@ -4,9 +4,14 @@ This is the starter kit for web application development using TypeScript. This i
 <ul>
     <li>TypeScript</li>
     <li>Eslint</li>
-    <li>Babel</li>
+    <li>Babel 7</li>
     <li>prettier</li>
     <li>husky</li>
+    <li>Webpack 5</li>
+    <li>Hot Module Replacement</li>
+    <li>Asset Management</li>
+    <li>Code Splitting</li>
+    <li>Caching using Hash</li>
 </ul>
 
 ## Download the starter kit
