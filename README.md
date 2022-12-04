@@ -29,12 +29,12 @@ npm start
 
 ## Build
 
-npm build
+npm run build
 
 
 <h2>Demo</h2>
 <b>When you run the build or development server, you will see this interface initially. Then you can start coding. Happy coding.</b>
-<br/>
+<br/><br/>
 
 ![ts-starter-demo](https://user-images.githubusercontent.com/85350108/201992018-c4f7cceb-0468-4242-a9e5-c0fdd9d9a09c.png)
 
