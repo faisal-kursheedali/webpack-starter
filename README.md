@@ -1,4 +1,4 @@
-## TypeScript Starter kit 
+## 📦 TypeScript Starter kit 
 This is the starter kit for web application development using TypeScript. This is built using Webpack.
 <h4>It has</h4>
 <ul>
