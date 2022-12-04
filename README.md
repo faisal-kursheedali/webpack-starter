@@ -34,6 +34,39 @@ npm run build
 
 <h2>Demo</h2>
 <b>When you run the build or development server, you will see this interface initially. Then you can start coding. Happy coding.</b>
+<h3>Things to note on this app </h3>
+<ul>
+<li>WebPack starter running properly </li>
+
+<li>Added configuration file </li>
+
+<li>Added Loaders </li>
+
+<li>Added Babel </li>
+
+<li>CSS </li>
+
+<li>Assets used </li>
+
+<li>HTML web pack plugin implemented </li>
+
+<li>Code Splitting implemented </li>
+
+<li>Caching - setting the content implemented </li>
+
+<li>Caching documentation for how to use implemented </li>
+
+<li>marks for developer setup </li>
+
+<li>Proper Documentation: dev documentation, production documentation, features </li>
+
+<li>Lazy Loading </li>
+
+<li>Degit (proper library) </li>
+
+<li>Entire package should be hosted on GitHub </li>
+
+</ul>
 <br/><br/>
 
 ![ts-starter-demo](https://user-images.githubusercontent.com/85350108/201992018-c4f7cceb-0468-4242-a9e5-c0fdd9d9a09c.png)
